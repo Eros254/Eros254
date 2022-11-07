@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Eros254
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on development
 - 📫 How to reach me litodave@outlook.com
 
 <!---
